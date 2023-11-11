@@ -1,0 +1,13 @@
+.continer{
+    background-color:var(--wbColer);
+    height: 100vh;
+}
+.card{
+    background-color: white;
+    display: flex;
+    width: 500px;
+ height: 580px;
+    margin-left: 30%;
+    padding-top: 10%;
+    padding-left: 16%;
+}
